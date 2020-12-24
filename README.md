@@ -1,3 +1,12 @@
+This application is designed for everyone who enjoys playing the quiz, here are some features that user can show intrest towards checking this app
+
+1. An optional based questions.
+2. Displaying the score as soon as question is submitted.
+3. Informing the user about consequences before performing any operations.
+And many More...
+
+Will recommend Desktop for Better User Experience.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
