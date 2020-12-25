@@ -257,6 +257,7 @@ const App = () => {
   };
   const handlepreviousquestion = () => {
     if(window.confirm("This will clear the current response")){
+    setscore(score-1);
     setcurrentquestion(currentquestion - 1);
     setselectedanswer("");
     clearOtherOptions();
